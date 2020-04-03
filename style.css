@@ -1,0 +1,187 @@
+*
+{
+    margin: 0;
+    padding: 0;
+  
+  
+}
+
+
+body{
+    background-color:  #F5F6F7;
+    max-height: 300px;
+}
+
+
+.div {
+    background-color: #F5F6F7;
+    background: cover;
+}
+
+
+.landing
+{
+
+    background-image: url(hulu.PNG);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100%;
+    background-position: top;
+}
+
+
+
+.bar {
+    background: linear-gradient(318.68deg,#0F495C 0%,#0D3640 49.72%,#08141F 100%);
+    box-sizing: border-box;
+    height: 17%;
+    width: 100%;
+    position: absolute;
+    top: 65%;
+    display: block;
+    padding: 34px 40px;
+    z-index: 1;
+}
+
+
+
+.disPic{
+    width: 400px;
+    height: 70px;
+}
+
+
+
+
+
+.bundle{
+    position: relative;
+    top: -100px;
+    left: 600px;
+    color: #2DBD9D;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 13px;
+    padding: 8px;
+    font-family: 'Graphik',Helvetica,Arial,sans-serif;
+
+}
+
+.HuluText {
+    color: #ffffff;
+    display: inline;
+    font-size: 21px;
+    line-height: 24px;
+    font-family: 'Graphik',Helvetica,Arial,sans-serif;
+    font-weight: normal;
+    left: 600px;
+    position: relative;
+    top: -80px;
+
+}
+
+.link {
+    position: relative;
+    left: 135px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    font-family: 'Graphik',Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration: underline;
+    top: -50px;
+}
+
+.pic {
+    background-image: url(hulupic.jpg);
+    background-repeat: no-repeat;
+    height: 200vh;
+    background-size: 100%;
+    /* background-position: ; */
+    position: relative;
+    top: -165px;
+    /* max-height: 100%; */
+    background-color: #F5F6F7;
+    
+
+}
+
+
+
+.plan {
+    font-size: 48px;
+    font-weight: 300;
+    font-stretch: normal;
+    line-height: 52px;
+    margin: 0 auto 16px;
+    position: relative;
+    text-align: center;
+    top: -700px;
+    background-color: #F5F6F7;
+}
+
+.fees{
+    margin: 0 auto;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-stretch: normal;
+    line-height: 24px;
+    color: #5E6573;
+}
+
+.card1{
+    text-align: center;
+    padding: 40px 20px;
+    /* background-color: red; */
+    position: relative;
+    top: -100px;
+    height: 500%;
+}
+
+.card-deck {
+    position: relative;
+    text-align: center;
+    top: -700px;
+    width: 80%;
+    left: 140px;
+}
+
+
+
+ ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+  }
+
+  li{
+      text-align: center;
+      display: list-item;
+      font-family: 'Graphik',Helvetica,Arial,sans-serif;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      padding: 12px 0;
+  }
+
+
+  .text-muted{
+    font-size: 18px;
+    font-weight: 400;
+    font-stretch: normal;
+    color: #868D9B;
+    line-height: 18px;
+  }
+
+
+
+
+ .footer{
+    position: relative;
+    top: -900px;
+   max-height: 100px;
+   background-color: red;
+ }
