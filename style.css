@@ -34,7 +34,7 @@ body{
 .bar {
     background: linear-gradient(318.68deg,#0F495C 0%,#0D3640 49.72%,#08141F 100%);
     box-sizing: border-box;
-    height: 17%;
+    height: 20%;
     width: 100%;
     position: absolute;
     top: 65%;
@@ -100,7 +100,7 @@ body{
     background-size: 100%;
     /* background-position: ; */
     position: relative;
-    top: -165px;
+    top: -180px;
     /* max-height: 100%; */
     background-color: #F5F6F7;
     
@@ -117,7 +117,7 @@ body{
     margin: 0 auto 16px;
     position: relative;
     text-align: center;
-    top: -700px;
+    top: -900px;
     background-color: #F5F6F7;
 }
 
@@ -142,7 +142,7 @@ body{
 .card-deck {
     position: relative;
     text-align: center;
-    top: -700px;
+    top: -950px;
     width: 80%;
     left: 140px;
 }
