@@ -2,4 +2,4 @@
 
 A static page replicating www.Hulu.com. 
 
-This project was created using HTML and CSS
+This project was created using HTML, CSS,and Bootstrap
